@@ -11,5 +11,5 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 - It can give the details of any movie entered by the user.
 - It can evaluate the expressions entered by the user.
 - It can also play some games with the user.The games which it can play with the user are:
-    1.Hand Cricket
-    2.Stone Paper Scissor
+    - Hand Cricket
+    - Stone Paper Scissor
