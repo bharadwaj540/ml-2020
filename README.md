@@ -13,6 +13,8 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 - It can also ***play some games*** with the user.The games which it can play with the user are:
     1.Hand Cricket
     2.Stone Paper Scissor
+## Block Diagram
+![](https://github.com/bharadwaj540/ml-2020/blob/main/block%20diagram.png)
 
 ## References and Tools
 - As this is a basic chatbot we did not refered any where for coding.
